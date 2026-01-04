@@ -10,3 +10,18 @@ This package includes the proposed multi-view data clustering methods. The codes
 
 @article{DNMF_ADANMF_Zhao_2026, title={ Asymmetric Deep Autoencoder-like Non-negative Matrix Factorization for Multi-view Clustering}, author={Zhao, Sang-Qi and Zeng, Qing-Peng and Wu, Jian-Sheng}, journal={Engineering Applications of Artificial Intelligence}, volume={***}, pages={****}, year={****}, publisher={Elsevier}, doi={****}, }
 
+2、Method 2: MDRNMF 
+  Running the matlab script "demo.m" in the folder "MDRNMF" will yield the clustering partition of the dataset BBCSport.
+
+ **_MDRNMF (Multi-view Deep Reciprocal Nonnegative Matrix Factorization: https://doi.org/10.1016/j.engappai.2024.109508 )_** 
+
+@article{DNMF_MDRNMF_Zhong_2025, title={Multi-view Deep Reciprocal Nonnegative Matrix Factorization}, author={Zhong, Bo and Wu, Jun-Yun and Wu, Jian-Sheng and Min, Weidong}, journal={Engineering Applications of Artificial Intelligence}, volume={139}, pages={109508}, year={2025}, publisher={Elsevier}, doi={10.1016/j.engappai.2024.109508}, }
+
+
+3、Method 3: TNAGL
+  Running the matlab script "UCI2_Demos.m" in the folder "TNAGL/Demos" will yield the clustering partition of the dataset BBCSport.
+
+ **_TNAGL (Tensorized Noise-aware Anchor Graph Learning with Deep Complementary Information Propagation for Scalable Multi-view Clustering )_** 
+
+@article{DNMF_TNAGL_Wu_2026, title={Tensorized Noise-aware Anchor Graph Learning with Deep Complementary Information Propagation for Scalable Multi-view Clustering}, author={*****}, journal={****}, volume={***}, pages={****}, year={****}, publisher={IEEE}, doi={****}, }
+
