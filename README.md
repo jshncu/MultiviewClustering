@@ -25,3 +25,10 @@ This package includes the proposed multi-view data clustering methods. The codes
 
 @article{DNMF_TNAGL_Wu_2026, title={Tensorized Noise-aware Anchor Graph Learning with Deep Complementary Information Propagation for Scalable Multi-view Clustering}, author={*****}, journal={****}, volume={***}, pages={****}, year={****}, publisher={IEEE}, doi={****}, }
 
+4、Method 4: DCMGAL 
+  Run the python script "main.m" in the folder "DCMGAL" to get the clustering result.
+
+ **_DCMGAL (Dual Contrastive Learning with Graph Masking: A Self-Supervised Framework for Multi-View Clustering: https://doi.org/10.1016/j.neunet.2026.108894 )_** 
+
+@article{DLMVC_DCMGAL_Wu_2026, title={Dual Contrastive Learning with Graph Masking: A Self-Supervised Framework for Multi-View Clustering}, author={Wu, Jian-Sheng and Wen-Ting, Li and Wu, Jun-Yun and Min, Weidong}, journal={Neural Networks}, volume={***}, pages={108894}, year={2026}, publisher={Elsevier}, doi={https://doi.org/10.1016/j.neunet.2026.108894}, }
+
